@@ -5,10 +5,5 @@ The inner for loop prints the required spaces using formula (rows-i)+1, where ro
 The while loop prints the numbers where 2 * i - 1 gives the number of items in each row.
 
 Output:Enter number of rows: 7
-            1 
-          2 3 2 
-        3 4 5 4 3 
-      4 5 6 7 6 5 4 
-    5 6 7 8 9 8 7 6 5 
-  6 7 8 9 10 11 10 9 8 7 6 
-7 8 9 10 11 12 13 12 11 10 9 8 7 
+        
+<img width="248" alt="Screen Shot 2023-01-26 at 5 12 14 PM" src="https://user-images.githubusercontent.com/91500766/214962320-3027753b-e4ad-479d-a31d-6d40138dfce0.png">
