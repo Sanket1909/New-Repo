@@ -20,3 +20,4 @@ for i in range(1, rows+1):
     
     count1 = count = k = 0
     print()
+    
